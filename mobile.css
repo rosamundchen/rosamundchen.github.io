@@ -1,0 +1,227 @@
+@media screen and (max-width: 768px) {
+
+/********** HEADER **********/
+
+    .header {
+        padding: 18px 18px;
+        height: 75px;
+    }
+    
+    .header-1 {
+        font-size: 1rem;
+        padding-bottom: 2px;
+        width: 100%;
+    }
+    
+    .header-2 {
+        font-size: 1rem;
+        width: 100%;
+    }
+    
+    .header-3 {
+        float: left;
+        display: none;
+    }
+    
+    
+/********** TEXT **********/
+    
+    h1 {
+        font-size: 1.2rem;
+        padding-bottom: 20px;
+    }
+
+    h2 {
+        font-size: 1.2rem;
+    }
+    
+    h4 {
+        padding-top: 30px;        
+        width: 50%;
+        font-size: 0.7rem;
+        float: left;
+        padding-left: 0px;
+    }
+    
+    h5 {
+        padding-top: 30px;
+        width: 50%;
+        font-size: 0.7rem;
+    }
+    p {
+        font-size: 0.85rem;
+    }
+    
+    
+/********** SECTION 1 **********/
+
+    .copy-1 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;
+        border-bottom: 0px;
+    }
+    
+    .work-1 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .poster-2, .poster-3, .poster-4 {
+        padding-top: 18px;
+    }
+    
+    
+/********** SECTION 2 **********/
+
+    .copy-2 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;        
+        border-bottom: 0px;
+    }
+    
+    .work-2 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .dos-2 {
+        padding-top: 18px;
+    }
+    
+
+/********** SECTION 3 **********/
+
+    .copy-3 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;        
+        border-bottom: 0px;
+    }
+    
+    .work-3 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .pan-2, .pan-3, .pan-4 {
+        padding-top: 18px;
+    }
+    
+
+/********** SECTION 4 **********/
+
+    .copy-4 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;        
+        border-bottom: 0px;
+    }
+    
+    .work-4 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .unt-2, .unt-3, .unt-4, .unt-5 {
+        padding-top: 18px;
+    }
+
+    
+/********** SECTION 5 **********/
+
+    .copy-5 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;        
+        border-bottom: 0px;
+    }
+    
+    .work-5 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
+        padding-top: 18px;
+    }
+    
+/********** SECTION 6 **********/
+
+    .copy-6 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;
+        border-bottom: 0px;
+    }
+    
+    .work-6 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .stir-2, .stir-3, .stir-4, .stir-5 {
+        padding-top: 18px;
+    }
+    
+    
+/********** SECTION 7 **********/
+
+    .copy-7 {
+        width: 100%;
+        padding: 45px 18px 18px 18px;        
+        border-bottom: 0px;
+    }
+    
+    .work-7 {
+        width: 100%;
+        padding: 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
+    .vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+        padding-top: 18px;
+    }
+        
+/********** FOOTER **********/
+    
+    .footer {
+        height: 80px;
+        margin-top: -80px;
+        padding: 23px 18px 20px 18px;;
+    }
+
+    .foot-1 {
+        font-size: 0.7rem;
+        padding-top: 0px;
+        float: right;
+    }   
+    
+    .foot-2 {
+            float: left;
+        font-size: 0.7rem;
+        padding-top: 2px;
+    }  
+    
+    .foot-3 {
+        float: left;
+        font-size: 0.7rem;
+        padding-top: 2px;
+    }  
+    
+    .foot-4 {
+        width: 100%;
+        float: left;
+        padding-top: 13px;
+        font-size: 0.65rem;
+    }
+    
+}
