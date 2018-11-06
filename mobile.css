@@ -1,4 +1,9 @@
 @media screen and (max-width: 768px) {
+    
+    
+html {
+    scroll-behavior: smooth;
+}
 
 /********** HEADER **********/
 
@@ -39,6 +44,7 @@
         padding-top: 30px;        
         width: 50%;
         font-size: 0.7rem;
+        font-weight: 200;
         float: left;
         padding-left: 0px;
     }
