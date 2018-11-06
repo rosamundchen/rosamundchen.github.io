@@ -41,8 +41,8 @@ html {
     }
     
     h4 {
-        padding-top: 30px;        
-        width: 50%;
+        padding-top: 20px;        
+        width: 100%;
         font-size: 0.7rem;
         font-weight: 200;
         float: left;
@@ -50,8 +50,8 @@ html {
     }
     
     h5 {
-        padding-top: 30px;
-        width: 50%;
+        padding-top: 20px;
+        width: 100%;
         font-size: 0.7rem;
     }
     p {
