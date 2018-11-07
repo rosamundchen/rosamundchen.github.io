@@ -465,27 +465,43 @@ p a {
 
 @font-face {
     font-family: "HK Gothic Black";
-    src: url("Fonts/HK_Gothic/TTF/HKGothic-Black.ttf") format("truetype");
-}    
-    
+    src: url("Fonts/HK_Gothic/TTF/HKGothic-Black.ttf") format("truetype"), 
+         url("Fonts/HK_Gothic/WEB/HKGothic-Black.eot"),
+         url("Fonts/HK_Gothic/WEB/HKGothic-Black.woff") format("woff"),
+         url("Fonts/HK_Gothic/WEB/HKGothic-Black.woff2") format("woff2");
+}
+        
+
 @font-face {
     font-family: "HK Gothic Bold";
-    src: url("Fonts/HK_Gothic/TTF/HKGothic-Bold.ttf") format("truetype");
+    src: url("Fonts/HK_Gothic/TTF/HKGothic-Bold.ttf") format("truetype"),
+         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.eot"),
+         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.woff") format("woff"),
+         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "HK Gothic Reg";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-regular.ttf") format("truetype");
+        src: url("Fonts/HK_Gothic/TTF/HKGothic-Regular.ttf") format("truetype"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.eot"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.woff") format("woff"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "HK Gothic Med";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-Medium.ttf") format("truetype");
+        src: url("Fonts/HK_Gothic/TTF/HKGothic-Medium.ttf") format("truetype"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.eot"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.woff") format("woff"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.woff2") format("woff2");
 }
 
 @font-face {
     font-family: "HK Gothic Light";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-Light.ttf") format("truetype");
+        src: url("Fonts/HK_Gothic/TTF/HKGothic-Light.ttf") format("truetype"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Light.eot"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Light.woff") format("woff"),
+            url("Fonts/HK_Gothic/WEB/HKGothic-Light.woff2") format("woff2");
 }
 
 @font-face {
