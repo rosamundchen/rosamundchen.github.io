@@ -33,11 +33,14 @@ html {
     
     h1 {
         font-size: 1.2rem;
-        padding-bottom: 20px;
+        padding-bottom: 20px;        
+        font-family: "HK Gothic Med", sans-serif;
     }
 
     h2 {
         font-size: 1.2rem;
+        text-transform: uppercase;
+        font-family: "HK Gothic Med", sans-serif;
     }
     
     h4 {
