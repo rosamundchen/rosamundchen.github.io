@@ -73,14 +73,15 @@ html,body {
 h1 {
     font-family: "HK Gothic Reg", sans-serif;
     font-weight: 100;
-    font-size: 2rem;
+    font-size: 1.5rem;
     padding-bottom: 30px;;
 }
 
 h2 {
     font-family: "HK Gothic Reg", sans-serif;
-    font-size: 1.8rem;
+    font-size: 1.5rem;
     font-weight: 100;
+    text-transform: uppercase;
 }
 
 h4 {
