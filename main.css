@@ -28,8 +28,8 @@ html,body {
 .header-1 {
     float: left;
     padding-right: 30px;
-    font-family: "HK Gothic Black", sans-serif;
-    font-size: 1rem;
+    font-family: "Favorit Bold", sans-serif;
+    font-size: 1.2rem;
     text-transform: uppercase;
     width: 220px;
 }
@@ -40,13 +40,13 @@ html,body {
 }
 
 .header-1 a:hover {
-    color: lime;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 .header-2 {
     float: left;
-    font-family: "HK Gothic Black", sans-serif;
-    font-size: 1rem;
+    font-family: "Favorit Bold", sans-serif;
+    font-size: 1.2rem;
     text-transform: uppercase;
     width: 250px;
 }
@@ -57,13 +57,13 @@ html,body {
 }
 
 .header-2 a:hover {
-    color: lime;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 .header-3 {
     float: right; 
-    font-family: "HK Venetian", cursive;
-    font-size: 1.1rem;
+    font-family: "Favorit Reg", sans-serif;
+    font-size: 1rem;
     color: black;
 }
 
@@ -71,27 +71,27 @@ html,body {
 /********************** TEXT SIZES **********************/
 
 h1 {
-    font-family: "HK Gothic Reg", sans-serif;
+    font-family: "Favorit Reg", sans-serif;
     font-weight: 100;
-    font-size: 1.5rem;
-    padding-bottom: 30px;;
+    font-size: 1.2rem;
+    padding-bottom: 15%;
 }
 
 h2 {
-    font-family: "HK Gothic Reg", sans-serif;
-    font-size: 1.5rem;
+    font-family: "Favorit Reg", sans-serif;
+    font-size: 1.2rem;
     font-weight: 100;
     text-transform: uppercase;
 }
 
 h4 {
-    font-family: "GT America", sans-serif;
+    font-family: "Favorit Reg Line", sans-serif;
     text-transform: uppercase;
     font-size: 0.7rem;
     padding-top: 20%;
     float: left;
     width: 150px;
-    line-height: 1.5;
+    line-height: 1.7;
 }
 
 h4 a {
@@ -104,13 +104,13 @@ h4 a:hover {
 }
 
 h5 {
-    font-family: "GT America", sans-serif;
+    font-family: "Favorit Reg", sans-serif;
     font-size: 0.7rem;
-    line-height: 1.5;
+    line-height: 1.7;
     text-transform: uppercase;
     float: left;    
     padding-top: 20%;
-    padding-right: 25px;
+    padding-right: 40px;
 }
 
 p {
@@ -393,7 +393,7 @@ p a {
 }
 
 .foot-1 {
-    font-family: "HK Gothic Black", sans-serif;
+    font-family: "Favorit Bold", sans-serif;
     font-size: 0.8rem;
     text-transform: uppercase;
     float: right;
@@ -406,7 +406,7 @@ p a {
 }
 
 .foot-2 {
-    font-family: "HK Gothic Bold", sans-serif;
+    font-family: "Favorit Bold", sans-serif;
     font-size: 0.8rem;
     text-transform: uppercase;
     float: right;    
@@ -426,7 +426,7 @@ p a {
 
 
 .foot-3 {
-    font-family: "HK Gothic Bold", sans-serif;
+    font-family: "Favorit Bold", sans-serif;
     font-size: 0.8rem;
     text-transform: uppercase;
     float: right;    
@@ -445,15 +445,15 @@ p a {
 }
 
 .foot-4 {
-    font-family: "HK Gothic Med", sans-serif;
-    font-size: 0.7rem;    
+    font-family: "Favorit Reg", sans-serif;
+    font-size: 0.8rem;    
     padding-top: 4px;
 }
 
 .foot-4 a {
     color: black;
     text-decoration: none;
-    font-family: "HK Gothic Bold", sans-serif;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 
@@ -461,52 +461,32 @@ p a {
 /********FONT FACE********/
 
 @font-face {
-    font-family: "HK Gothic Black";
-    src: url("Fonts/HK_Gothic/TTF/HKGothic-Black.ttf") format("truetype"), 
-         url("Fonts/HK_Gothic/WEB/HKGothic-Black.eot"),
-         url("Fonts/HK_Gothic/WEB/HKGothic-Black.woff") format("woff"),
-         url("Fonts/HK_Gothic/WEB/HKGothic-Black.woff2") format("woff2");
-}
-        
-
-@font-face {
-    font-family: "HK Gothic Bold";
-    src: url("Fonts/HK_Gothic/TTF/HKGothic-Bold.ttf") format("truetype"),
-         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.eot"),
-         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.woff") format("woff"),
-         url("Fonts/HK_Gothic/WEB/HKGothic-Bold.woff2") format("woff2");
+    font-family: "Favorit Bold";
+    src: url("Fonts/Favorit/Favorit_Bold.otf") format("opentype");
 }
 
 @font-face {
-    font-family: "HK Gothic Reg";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-Regular.ttf") format("truetype"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.eot"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.woff") format("woff"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Regular.woff2") format("woff2");
+    font-family: "Favorit Bold Line";
+    src: url("Fonts/Favorit/Favorit-Bold_Lining.otf") format("opentype");
+}
+
+
+@font-face {
+    font-family: "Favorit Med";
+    src: url("Fonts/Favorit/Favorit_Medium.otf") format("opentype");
 }
 
 @font-face {
-    font-family: "HK Gothic Med";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-Medium.ttf") format("truetype"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.eot"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.woff") format("woff"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Medium.woff2") format("woff2");
+    font-family: "Favorit Reg";
+    src: url("Fonts/Favorit/Favorit_Regular.otf") format("opentype");
 }
 
 @font-face {
-    font-family: "HK Gothic Light";
-        src: url("Fonts/HK_Gothic/TTF/HKGothic-Light.ttf") format("truetype"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Light.eot"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Light.woff") format("woff"),
-            url("Fonts/HK_Gothic/WEB/HKGothic-Light.woff2") format("woff2");
+    font-family: "Favorit Reg Line";
+    src: url("Fonts/Favorit/Favorit-Regular_Lining.otf") format("opentype");
 }
 
 @font-face {
-    font-family: "HK Venetian";
-    src: url("Fonts/HK_Venetian/HKVenetian-Italic.ttf") format("truetype");
-}
-
-@font-face {
-    font-family: "GT America";
-    src: url("Fonts/GT_America/GT-America-Regular.otf") format("opentype");
+    font-family: "Favorit Light";
+    src: url("Fonts/Favorit/Favorit_Light.otf") format("opentype");
 }
