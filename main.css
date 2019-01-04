@@ -85,7 +85,7 @@ h2 {
 }
 
 h4 {
-    font-family: "Favorit Reg Line", sans-serif;
+    font-family: "Favorit Light Line", sans-serif;
     text-transform: uppercase;
     font-size: 0.7rem;
     padding-top: 20%;
@@ -104,7 +104,7 @@ h4 a:hover {
 }
 
 h5 {
-    font-family: "Favorit Reg", sans-serif;
+    font-family: "Favorit Light", sans-serif;
     font-size: 0.7rem;
     line-height: 1.7;
     text-transform: uppercase;
@@ -114,7 +114,7 @@ h5 {
 }
 
 p {
-    font-family: "GT America", sans-serif;
+    font-family: "Favorit Reg", sans-serif;
     font-size: 0.9rem;
     line-height: 1.4;
 }
@@ -393,7 +393,7 @@ p a {
 }
 
 .foot-1 {
-    font-family: "Favorit Bold", sans-serif;
+    font-family: "Favorit Bold Line", sans-serif;
     font-size: 0.8rem;
     text-transform: uppercase;
     float: right;
@@ -401,8 +401,7 @@ p a {
 }
 
 .foot-1 a {
-    color: lime;
-    text-decoration: underline;
+    color: black;
 }
 
 .foot-2 {
@@ -421,7 +420,7 @@ p a {
 }
 
 .foot-2 a:hover {
-    color: lime;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 
@@ -441,7 +440,7 @@ p a {
 }
 
 .foot-3 a:hover {
-    color: lime;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 .foot-4 {
@@ -490,3 +489,9 @@ p a {
     font-family: "Favorit Light";
     src: url("Fonts/Favorit/Favorit_Light.otf") format("opentype");
 }
+
+@font-face {
+    font-family: "Favorit Light Line";
+    src: url("Fonts/Favorit/Favorit-Light_Lining.otf") format("opentype");
+}
+
