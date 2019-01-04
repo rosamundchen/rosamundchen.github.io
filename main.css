@@ -74,7 +74,7 @@ h1 {
     font-family: "Favorit Reg", sans-serif;
     font-weight: 100;
     font-size: 1.2rem;
-    padding-bottom: 15%;
+    padding-bottom: 12%;
 }
 
 h2 {
@@ -458,6 +458,11 @@ p a {
 
 
 /********FONT FACE********/
+
+@font-face {
+    font-family: "Syne";
+    src: url("Fonts/Favorit/Syne-Regular.otf") format("opentype");
+}
 
 @font-face {
     font-family: "Favorit Bold";
