@@ -40,7 +40,7 @@ html,body {
 }
 
 .header-1 a:hover {
-    font-family: "Favorit Bold Line", sans-serif;
+    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 .header-2 {
@@ -57,7 +57,7 @@ html,body {
 }
 
 .header-2 a:hover {
-    font-family: "Favorit Bold Line", sans-serif;
+    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 .header-3 {
@@ -92,6 +92,12 @@ p {
 
 p a {
     color: black;
+    text-decoration: none;
+}
+
+p a:hover {
+    color: black;
+font-family: "Favorit Reg Line", sans-serif;
 }
 
 .dimension {
@@ -422,7 +428,7 @@ p a {
 }
 
 .foot-2 a:hover {
-    font-family: "Favorit Bold Line", sans-serif;
+    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 
@@ -442,7 +448,7 @@ p a {
 }
 
 .foot-3 a:hover {
-    font-family: "Favorit Bold Line", sans-serif;
+    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 .foot-4 {
@@ -454,7 +460,11 @@ p a {
 .foot-4 a {
     color: black;
     text-decoration: none;
-    font-family: "Favorit Bold Line", sans-serif;
+    font-family: "Favorit Bold", sans-serif;
+}
+
+.foot-4 a:hover {
+    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 
@@ -474,6 +484,11 @@ p a {
 @font-face {
     font-family: "Favorit Bold Line";
     src: url("Fonts/Favorit/Favorit-Bold_Lining.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Favorit Bold Italic";
+    src: url("Fonts/Favorit/Favorit_Bold-Italic.otf") format("opentype");
 }
 
 
