@@ -9,17 +9,17 @@ html {
 
     .header {
         padding: 18px 18px;
-        height: 75px;
+        height: 81px;
     }
     
     .header-1 {
-        font-size: 1rem;
+        font-size: 1.2rem;
         padding-bottom: 2px;
         width: 100%;
     }
     
     .header-2 {
-        font-size: 1rem;
+        font-size: 1.2rem;
         width: 100%;
     }
     
@@ -96,7 +96,8 @@ html {
         border-bottom: 0px;
     }
     
-    .dos-2 {
+    
+    .unt-2, .unt-3, .unt-4, .unt-5 {
         padding-top: 18px;
     }
     
@@ -116,10 +117,9 @@ html {
         border-bottom: 0px;
     }
     
-    .pan-2, .pan-3, .pan-4 {
+.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
         padding-top: 18px;
     }
-    
 
 /********** SECTION 4 **********/
 
@@ -136,7 +136,7 @@ html {
         border-bottom: 0px;
     }
     
-    .unt-2, .unt-3, .unt-4, .unt-5 {
+    .typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
         padding-top: 18px;
     }
 
@@ -156,7 +156,8 @@ html {
         border-bottom: 0px;
     }
     
-    .typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
+    
+    .stir-2, .stir-3, .stir-4, .stir-5 {
         padding-top: 18px;
     }
     
@@ -175,7 +176,7 @@ html {
         border-bottom: 0px;
     }
     
-    .stir-2, .stir-3, .stir-4, .stir-5 {
+    .dos-2 {
         padding-top: 18px;
     }
     
@@ -195,9 +196,10 @@ html {
         border-bottom: 0px;
     }
     
-    .vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+    .pan-2, .pan-3, .pan-4 {
         padding-top: 18px;
     }
+    
         
 /********** FOOTER **********/
     
