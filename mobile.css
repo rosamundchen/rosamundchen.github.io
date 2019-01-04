@@ -43,21 +43,22 @@ html {
         font-family: "Favorit Reg", sans-serif;
     }
     
-    h4 {
-        padding-top: 20px;        
+    .nav {
+        padding-top: 5%;        
         width: 100%;
         font-size: 0.7rem;
         float: left;
         padding-left: 0px;
     }
     
-    h5 {
+    .dimension {
         padding-top: 20px;
         width: 100%;
         font-size: 0.7rem;
+        display: none;
     }
     p {
-        font-size: 0.85rem;
+        font-size: 0.9rem;
     }
     
     
