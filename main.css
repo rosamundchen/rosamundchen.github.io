@@ -199,7 +199,7 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.dos-2 {
+.unt-2, .unt-3, .unt-4, .unt-5 {
     padding-top: 25px;
 }
 
@@ -236,7 +236,8 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.pan-2, .pan-3, .pan-4 {
+
+.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
     padding-top: 25px;
 }
 
@@ -273,7 +274,7 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.unt-2, .unt-3, .unt-4, .unt-5 {
+.typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
     padding-top: 25px;
 }
 
@@ -310,7 +311,8 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
+
+.stir-2, .stir-3, .stir-4, .stir-5 {
     padding-top: 25px;
 }
 
@@ -346,7 +348,11 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.stir-2, .stir-3, .stir-4, .stir-5 {
+.sb-1 {
+    padding-top: 0%;
+}
+
+.sb-2, .sb-3, .sb-4 {
     padding-top: 25px;
 }
 
@@ -383,7 +389,7 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+.pan-2, .pan-3, .pan-4 {
     padding-top: 25px;
 }
 
