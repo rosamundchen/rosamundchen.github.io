@@ -77,9 +77,10 @@ html {
         border-bottom: 0px;
     }
     
-    .poster-2, .poster-3, .poster-4 {
-        padding-top: 18px;
-    }
+.sb-2, .sb-3, .sb-4 {
+    padding-top: 25px;
+}
+
     
     
 /********** SECTION 2 **********/
@@ -98,7 +99,7 @@ html {
     }
     
     
-    .unt-2, .unt-3, .unt-4, .unt-5 {
+    .poster-1, .poster-2, .poster-3, .poster-4 {
         padding-top: 18px;
     }
     
@@ -118,7 +119,7 @@ html {
         border-bottom: 0px;
     }
     
-.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+    .unt-2, .unt-3, .unt-4, .unt-5 {
         padding-top: 18px;
     }
 
@@ -177,7 +178,7 @@ html {
         border-bottom: 0px;
     }
     
-    .sb-2, .sb-3, .sb-4 {
+    .vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
         padding-top: 18px;
     }
     

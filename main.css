@@ -162,7 +162,11 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.poster-2, .poster-3, .poster-4 {
+.sb-1 {
+    padding-top: 0px;
+}
+
+.sb-2, .sb-3, .sb-4 {
     padding-top: 25px;
 }
     
@@ -199,7 +203,11 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.unt-2, .unt-3, .unt-4, .unt-5 {
+.poster-1 {
+    padding-top: 0px;
+}
+
+.poster-2, .poster-3, .poster-4 {
     padding-top: 25px;
 }
 
@@ -237,7 +245,7 @@ font-family: "Favorit Reg Line", sans-serif;
 }
 
 
-.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+.unt-2, .unt-3, .unt-4, .unt-5 {
     padding-top: 25px;
 }
 
@@ -348,11 +356,7 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.sb-1 {
-    padding-top: 0%;
-}
-
-.sb-2, .sb-3, .sb-4 {
+.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
     padding-top: 25px;
 }
 
