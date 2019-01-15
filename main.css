@@ -27,11 +27,11 @@ html,body {
 
 .header-1 {
     float: left;
-    padding-right: 30px;
+    padding-right: 0px;
     font-family: "Favorit Bold", sans-serif;
     font-size: 1.2rem;
     text-transform: uppercase;
-    width: 220px;
+    width: 148px;
 }
 
 .header-1 a {
@@ -39,25 +39,10 @@ html,body {
     color: black;
 }
 
-.header-1 a:hover {
-    font-family: "Favorit Bold Italic", sans-serif;
-}
-
 .header-2 {
-    float: left;
-    font-family: "Favorit Bold", sans-serif;
-    font-size: 1.2rem;
-    text-transform: uppercase;
-    width: 250px;
-}
-
-.header-2 a {
-    text-decoration: none;    
-    color: black;
-}
-
-.header-2 a:hover {
-    font-family: "Favorit Bold Italic", sans-serif;
+    float: right;
+    font-family: "Favorit Reg", sans-serif;
+    font-size: 1rem;
 }
 
 .header-3 {
@@ -65,7 +50,19 @@ html,body {
     font-family: "Favorit Reg", sans-serif;
     font-size: 1rem;
     color: black;
+    padding-right: 35px;
 }
+
+
+.header-3 a {
+    text-decoration: underline;    
+    color: black;
+}
+
+.header-3 a:hover {
+    font-family: "Favorit Bold", sans-serif;
+}
+
 
 
 /********************** TEXT SIZES **********************/
@@ -438,7 +435,7 @@ font-family: "Favorit Reg Line", sans-serif;
 }
 
 .foot-2 a:hover {
-    font-family: "Favorit Bold Italic", sans-serif;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 
@@ -458,7 +455,7 @@ font-family: "Favorit Reg Line", sans-serif;
 }
 
 .foot-3 a:hover {
-    font-family: "Favorit Bold Italic", sans-serif;
+    font-family: "Favorit Bold Line", sans-serif;
 }
 
 .foot-4 {
@@ -471,10 +468,6 @@ font-family: "Favorit Reg Line", sans-serif;
     color: black;
     text-decoration: none;
     font-family: "Favorit Bold", sans-serif;
-}
-
-.foot-4 a:hover {
-    font-family: "Favorit Bold Italic", sans-serif;
 }
 
 
