@@ -8,13 +8,12 @@ html {
 /********** HEADER **********/
 
     .header {
-        padding: 18px 18px;
-        height: 85px;
+        height: 70px;
+        padding-left: 4%;
     }
     
     .header-1 {
         font-size: 1.2rem;
-        width: 100%;
         float: left;
     }
     
@@ -24,9 +23,10 @@ html {
     
     .header-3 {
         float: right;
-        font-size: 1.2rem;
+        font-size: 1rem;
         font-family: "Favorit Reg", sans-serif;
-        width: 100%;
+        display: block;
+        margin-right: 0%;
     }
     
     
