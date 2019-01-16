@@ -24,7 +24,7 @@ html {
     .header-3 {
         float: right;
         font-size: 1rem;
-        font-family: "Favorit Reg", sans-serif;
+        font-family: "Favorit Bold Line", sans-serif;
         display: block;
         margin-right: 0%;
     }
@@ -36,19 +36,23 @@ html {
         font-size: 1.2rem;
         padding-bottom: 20px;        
         font-family: "Favorit Reg", sans-serif;
+        float: left;
     }
 
     h2 {
         font-size: 1.2rem;
         text-transform: uppercase;
         font-family: "Favorit Reg", sans-serif;
+        float: right
     }
     
     .nav {
-        padding-top: 5%;        
+        padding-top: 1%;        
         width: 100%;
         font-size: 0.7rem;
-        float: left;
+        font-family: "Favorit Med Line", sans-serif;
+        float: right;
+        text-align: right;
         padding-left: 0px;
     }
     
@@ -62,12 +66,16 @@ html {
         font-size: 0.9rem;
     }
     
+    .writeup {
+        display: none;
+    }
+    
     
 /********** SECTION 1 **********/
 
     .copy-1 {
         width: 100%;
-        padding: 45px 18px 18px 18px;
+        padding: 40px 18px 18px 18px;
         border-bottom: 0px;
     }
     
@@ -76,10 +84,11 @@ html {
         padding: 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
+        top: 0%;
     }
     
 .sb-2, .sb-3, .sb-4 {
-    padding-top: 25px;
+    padding-top: 18px;
 }
 
     
@@ -88,13 +97,13 @@ html {
 
     .copy-2 {
         width: 100%;
-        padding: 45px 18px 18px 18px;        
+        padding: 40px 18px 18px 18px;        
         border-bottom: 0px;
     }
     
     .work-2 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
@@ -109,13 +118,13 @@ html {
 
     .copy-3 {
         width: 100%;
-        padding: 45px 18px 18px 18px;        
+        padding: 40px 18px 18px 18px;        
         border-bottom: 0px;
     }
     
     .work-3 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
@@ -128,13 +137,13 @@ html {
 
     .copy-4 {
         width: 100%;
-        padding: 45px 18px 18px 18px;        
+        padding: 40px 18px 18px 18px;        
         border-bottom: 0px;
     }
     
     .work-4 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
@@ -148,13 +157,13 @@ html {
 
     .copy-5 {
         width: 100%;
-        padding: 45px 18px 18px 18px;        
+        padding: 40px 18px 18px 18px;        
         border-bottom: 0px;
     }
     
     .work-5 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
@@ -168,13 +177,13 @@ html {
 
     .copy-6 {
         width: 100%;
-        padding: 45px 18px 18px 18px;
+        padding: 40px 18px 18px 18px;
         border-bottom: 0px;
     }
     
     .work-6 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
@@ -188,18 +197,18 @@ html {
 
     .copy-7 {
         width: 100%;
-        padding: 45px 18px 18px 18px;        
+        padding: 40px 18px 18px 18px;
         border-bottom: 0px;
     }
     
     .work-7 {
         width: 100%;
-        padding: 18px 18px;
+        padding: 0px 18px 18px 18px;
         border-left: 0px;
         border-bottom: 0px;
     }
     
-    .pan-2, .pan-3, .pan-4 {
+    .ie-2, .ie-3, .ie-4 {
         padding-top: 18px;
     }
     

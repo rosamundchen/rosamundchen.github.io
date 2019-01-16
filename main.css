@@ -390,7 +390,7 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.pan-2, .pan-3, .pan-4 {
+.ie-2, .ie-3, .ie-4 {
     padding-top: 25px;
 }
 
@@ -498,6 +498,11 @@ font-family: "Favorit Reg Line", sans-serif;
 @font-face {
     font-family: "Favorit Med";
     src: url("Fonts/Favorit/Favorit_Medium.otf") format("opentype");
+}
+
+@font-face {
+    font-family: "Favorit Med Line";
+    src: url("Fonts/Favorit/Favorit-Medium_Lining.otf") format("opentype");
 }
 
 @font-face {
