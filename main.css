@@ -47,7 +47,8 @@ html,body {
 
 .header-3 {
     float: right; 
-    font-family: "Favorit Reg", sans-serif;
+    text-decoration: none;
+    font-family: "Favorit Reg Line", sans-serif;
     font-size: 1rem;
     color: black;
     margin-right: 4%;
@@ -56,10 +57,13 @@ html,body {
 
 .header-3 a {
     color: black;
+    text-decoration: none;
 }
 
 .header-3 a:hover {
-    font-family: "Favorit Bold", sans-serif;
+    font-family: "Favorit Bold Line", sans-serif;
+        text-decoration: none;
+
 }
 
 
