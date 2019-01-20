@@ -137,7 +137,7 @@ html {
         border-bottom: 0px;
     }
     
-    .unt-2, .unt-3, .unt-4, .unt-5 {
+.typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
         padding-top: 18px;
     }
 
@@ -156,7 +156,7 @@ html {
         border-bottom: 0px;
     }
     
-    .typo-2, .typo-3, .typo-4, .typo-5, .typo-6 {
+.stir-2, .stir-3, .stir-4, .stir-5 {
         padding-top: 18px;
     }
 
@@ -177,7 +177,7 @@ html {
     }
     
     
-    .stir-2, .stir-3, .stir-4, .stir-5 {
+.pr-2, .pr-3, .pr-4, {
         padding-top: 18px;
     }
     
@@ -196,7 +196,7 @@ html {
         border-bottom: 0px;
     }
     
-    .vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+.unt-2, .unt-3, .unt-4, {
         padding-top: 18px;
     }
     
@@ -216,9 +216,31 @@ html {
         border-bottom: 0px;
     }
     
+.vb-2, .vb-3, .vb-4, .vb-5, .vb-6, .vb-7 {
+        padding-top: 18px;
+    }
+    
+    
+    
+/********** SECTION 8 **********/
+
+    .copy-8 {
+        width: 100%;
+        padding: 40px 18px 18px 18px;
+        border-bottom: 0px;
+    }
+    
+    .work-8 {
+        width: 100%;
+        padding: 0px 18px 18px 18px;
+        border-left: 0px;
+        border-bottom: 0px;
+    }
+    
     .ie-2, .ie-3, .ie-4 {
         padding-top: 18px;
     }
+    
     
         
 /********** FOOTER **********/
