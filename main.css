@@ -319,7 +319,13 @@ font-family: "Favorit Reg Line", sans-serif;
 }
 
 
-.pr-2, .pr-3, .pr-4, {
+.pr-2 {
+    padding-top: 25px;
+}
+.pr-3 {
+    padding-top: 25px;
+}
+.pr-4 {
     padding-top: 25px;
 }
 
@@ -355,7 +361,13 @@ font-family: "Favorit Reg Line", sans-serif;
     border-left: 1px solid black;
 }
 
-.unt-2, .unt-3, .unt-4, {
+.unt-2 {
+    padding-top: 25px;
+}
+.unt-3 {
+    padding-top: 25px;
+}
+.unt-4 {
     padding-top: 25px;
 }
 
